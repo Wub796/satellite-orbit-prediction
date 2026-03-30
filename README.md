@@ -1,5 +1,5 @@
 # satellite-orbit-prediction
-Machine learning analysis of satellite orbit prediction error
+Analysis of satellite orbit prediction
 
 Satellite Orbit Research
 
