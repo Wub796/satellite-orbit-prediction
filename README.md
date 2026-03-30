@@ -1,5 +1,5 @@
 # satellite-orbit-prediction
-Analysis of satellite orbit prediction
+Analysis of satellite orbit prediction error
 
 Satellite Orbit Research
 
